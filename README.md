@@ -1,0 +1,2 @@
+# esp32-s2-wrover-fb32241be653d1460013df729cdcd0417695e83c
+ sd
